@@ -10,7 +10,7 @@ on:
       IMG_URL:
         description: 'IMG_URL'
         required: true
-        default: 'https://github.com/aa4851698/action_build_twrp_device_tree/releases/download/untagged-c10b16f43f56aa0be5b9/boot.img'
+        default: 'https://raw.githubusercontent.com/aa4851698/action_build_twrp_device_tree/main/3.img'
 
 jobs:
   build:
